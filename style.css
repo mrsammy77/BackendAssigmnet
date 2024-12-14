@@ -158,4 +158,29 @@ font-weight: 200;
 .Resources>p{
     margin-top: 20px;
     font-size: 18px;
+
+}
+
+.api{
+  
+    margin-right: 400px;
+display: flex none;
+
+    font-size: 20px;
+}
+.api-list{
+  margin-top: 30px;
+
+    display: flex ;
+}
+.footer{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.lastcode{
+    margin-top: 40px 
+    ;
+font-size: 23px;
+    margin-left: 40px;
+    text-align: center;
 }
